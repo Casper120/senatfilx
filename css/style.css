@@ -1,0 +1,92 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+
+.cajita1{
+    background-color: black;
+    height: 12rem;
+    justify-content: center;
+    align-items: center;
+    align-items: center;
+    display: flex;
+    top: -20re;
+    
+}
+.cajita2{
+    background-color: black;
+    height: 12rem;
+    justify-content: center;
+    align-items: center;
+    align-items: center;
+    display: flex;
+
+}
+.cajita3{
+    background-color: black;
+    height: 12rem;
+    justify-content: center;
+    align-items: center;
+    align-items: center;
+    display: flex;
+   
+}
+.cajita4{
+    background-color: black;
+    height: 12rem;
+    justify-content: center;
+    align-items: center;
+    align-items: center;
+    display: flex;
+
+}
+.cajita5{
+    background-color: black;
+    height: 12rem;
+    justify-content: center;
+    align-items: center;
+    align-items: center;
+    display: flex;
+
+
+    }
+
+.cajita6{
+    background-color: black;
+    height: 12rem;
+    justify-content: center;
+    align-items: center;
+    align-items: center;
+    display: flex;
+}
+
+
+.btn{
+    align-items: center;
+    justify-content: center;
+    height: 7rem;
+    margin: 2rem;
+
+}
+.btn2{
+    
+    height: 2rem;
+   
+
+}
+.row{
+    align-items: center;
+    justify-content: center;
+}
+.container-fluid{
+    height: 4rem;
+}
+.fondo{
+    background-color: black;
+    height: 4rem;
+}
